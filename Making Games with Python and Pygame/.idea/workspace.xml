@@ -105,10 +105,9 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1" />
-    <option name="y" value="39" />
-    <option name="width" value="1280" />
-    <option name="height" value="724" />
+    <option name="y" value="23" />
+    <option name="width" value="1402" />
+    <option name="height" value="723" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -252,8 +251,8 @@
     </configuration>
     <list>
       <item itemvalue="Python.blankpygame" />
-      <item itemvalue="Python.drawing" />
       <item itemvalue="Python.catanimation" />
+      <item itemvalue="Python.drawing" />
       <item itemvalue="Python.fonttext" />
       <item itemvalue="Python.memorypuzzle" />
     </list>
@@ -281,7 +280,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8435000" />
+    <option name="totallyTimeSpent" value="13300000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1" y="39" width="1280" height="724" extended-state="0" />
