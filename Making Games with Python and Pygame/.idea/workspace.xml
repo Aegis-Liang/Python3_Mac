@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="38296072-8094-47ee-9973-a3a0f9ef06bb" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../OpenCV-Python Tutorials/L2_CameraCap.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OpenCV-Python Tutorials/L2_PlayCap.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OpenCV-Python Tutorials/L2_SaveCap.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AIPND-master/AIPND-master.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AIPND-master/AIPND-revision-master.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AIPND-master/intropyproject-classify-pet-images/pet_images/Rabbit_002.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../OpenCV-Python Tutorials/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenCV-Python Tutorials/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OpenCV-Python Tutorials/L2_UseMatplotlib.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenCV-Python Tutorials/output.mov" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -75,8 +75,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Chapter 3/memorypuzzle.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="124">
-              <caret line="270" column="50" lean-forward="true" selection-start-line="270" selection-start-column="50" selection-end-line="270" selection-end-column="50" />
+            <state relative-caret-position="520">
+              <caret line="143" column="66" lean-forward="true" selection-start-line="143" selection-start-column="66" selection-end-line="143" selection-end-column="66" />
               <folding>
                 <element signature="e#139#165#0" expanded="true" />
               </folding>
@@ -108,8 +108,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="37" />
-    <option name="y" value="33" />
+    <option name="y" value="23" />
     <option name="width" value="1402" />
     <option name="height" value="723" />
   </component>
@@ -119,7 +118,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -141,6 +139,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -275,8 +274,8 @@
     </configuration>
     <list>
       <item itemvalue="Python.blankpygame" />
-      <item itemvalue="Python.drawing" />
       <item itemvalue="Python.catanimation" />
+      <item itemvalue="Python.drawing" />
       <item itemvalue="Python.fonttext" />
       <item itemvalue="Python.memorypuzzle" />
     </list>
@@ -303,18 +302,24 @@
       <workItem from="1559631876881" duration="413000" />
       <workItem from="1559632702215" duration="3283000" />
       <workItem from="1559636495917" duration="4739000" />
+      <workItem from="1560737486572" duration="597000" />
+      <workItem from="1560741218250" duration="268000" />
+      <workItem from="1560741600879" duration="275000" />
+      <workItem from="1560741981911" duration="30000" />
+      <workItem from="1560742153179" duration="3253000" />
+      <workItem from="1561373169048" duration="442000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8435000" />
+    <option name="totallyTimeSpent" value="13300000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="37" y="33" width="1402" height="723" extended-state="0" />
+    <frame x="0" y="23" width="1402" height="723" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2382353" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49920762" visible="true" weight="0.2602941" />
+      <window_info active="true" id="Structure" order="1" sideWeight="0.5007924" side_tool="true" visible="true" weight="0.2602941" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -382,8 +387,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Chapter 3/memorypuzzle.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="270" column="50" lean-forward="true" selection-start-line="270" selection-start-column="50" selection-end-line="270" selection-end-column="50" />
+        <state relative-caret-position="520">
+          <caret line="143" column="66" lean-forward="true" selection-start-line="143" selection-start-column="66" selection-end-line="143" selection-end-column="66" />
           <folding>
             <element signature="e#139#165#0" expanded="true" />
           </folding>
