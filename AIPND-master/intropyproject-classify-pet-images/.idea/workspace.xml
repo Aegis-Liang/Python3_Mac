@@ -17,8 +17,8 @@
       <file leaf-file-name="check_images.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/check_images.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="2" column="69" selection-start-line="2" selection-start-column="69" selection-end-line="2" selection-end-column="69" />
+            <state relative-caret-position="195">
+              <caret line="13" column="69" lean-forward="true" selection-start-line="13" selection-start-column="69" selection-end-line="13" selection-end-column="69" />
             </state>
           </provider>
         </entry>
@@ -83,10 +83,9 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="46" />
-    <option name="y" value="182" />
+    <option name="y" value="23" />
     <option name="width" value="1280" />
-    <option name="height" value="726" />
+    <option name="height" value="724" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -100,11 +99,6 @@
             <path>
               <item name="intropyproject-classify-pet-images" type="b2602c69:ProjectViewProjectNode" />
               <item name="intropyproject-classify-pet-images" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="intropyproject-classify-pet-images" type="b2602c69:ProjectViewProjectNode" />
-              <item name="intropyproject-classify-pet-images" type="462c0819:PsiDirectoryNode" />
-              <item name="pet_images" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="intropyproject-classify-pet-images" type="b2602c69:ProjectViewProjectNode" />
@@ -175,8 +169,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="46" y="182" width="1280" height="726" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1280" height="724" extended-state="0" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -185,7 +178,7 @@
       <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32872504" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2625202" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -590,8 +583,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/check_images.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="2" column="69" selection-start-line="2" selection-start-column="69" selection-end-line="2" selection-end-column="69" />
+        <state relative-caret-position="195">
+          <caret line="13" column="69" lean-forward="true" selection-start-line="13" selection-start-column="69" selection-end-line="13" selection-end-column="69" />
         </state>
       </provider>
     </entry>
